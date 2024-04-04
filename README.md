@@ -32,6 +32,8 @@ Testing the C Program for the desired output.
 ## OUTPUT
 
 
+![alt text](pipe1c-1.png)
+
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
 
 
@@ -40,6 +42,10 @@ Testing the C Program for the desired output.
 
 ## OUTPUT
 
+
+
+
+![alt text](fifo1c-1.png)
 
 # RESULT:
 The program is executed successfully.
